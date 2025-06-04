@@ -6,4 +6,5 @@ because I am still trying to figure out how to use the minimax algorithim. While
 possible plays.
 
 Here is screenshot:
+
 ![](img/connect_four.png)
